@@ -1,0 +1,4 @@
+Parameter,Best Value
+depth,8
+iterations,500
+l2_leaf_reg,4
