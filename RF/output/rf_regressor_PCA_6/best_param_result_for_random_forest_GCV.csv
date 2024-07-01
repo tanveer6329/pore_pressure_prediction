@@ -1,0 +1,4 @@
+Parameter,Best Value
+criterion,absolute_error
+max_depth,10
+n_estimators,300
